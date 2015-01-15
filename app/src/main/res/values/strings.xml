@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Charlando</string>
+    <string name="botonHablar">Hablar</string>
+    <string name="hablaahora">Habla ahora</string>
+    <string name="pensando">Pensando</string>
+
+</resources>
